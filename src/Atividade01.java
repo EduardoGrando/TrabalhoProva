@@ -9,7 +9,7 @@ public class Atividade01 {
             System.out.print("Digite um número: ");
             numeros[i] = sc.nextInt();
         }
-        ///
+        //
 
         int maior = numeros[0];
         int menor = numeros[0];
