@@ -17,6 +17,6 @@ public class Atividade02 {
         System.out.print("\nÍmpares: ");
         for (int n : numeros) {
             if (n % 2 != 0) System.out.print(n + " ");
-        }///
+        }//
     }
 }
