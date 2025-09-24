@@ -18,4 +18,4 @@ public class Atividade04 {
             System.out.print(matriz[i][i] + " ");
         }
     }
-}
+}//
