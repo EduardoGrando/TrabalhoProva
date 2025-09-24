@@ -24,5 +24,5 @@ public class Atividade05 {
             System.out.println("Soma da coluna " + j + ": " + somaColuna);
         }
         sc.close();
-    }
+    }//
 }
