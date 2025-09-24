@@ -23,4 +23,4 @@ public class Atividade01 {
         System.out.println("Menor: " + menor);
         sc.close();
     }
-}
+} //
